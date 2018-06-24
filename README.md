@@ -33,10 +33,10 @@ pub.rec: Borrower's number of derogatory public records (bankruptcy filings, tax
 ![image](https://user-images.githubusercontent.com/35156789/41815663-cf8c1048-773f-11e8-98f4-1be00b4c8e71.png)
 
 
-Exploratory Data Analysis
+# Exploratory Data Analysis
 Identifying the relationship between different variables in the dataset.
 
-Dual histogram of the FICO score of the borrowers,depending on the credit policy (i.e. if a borrower met the underlying criteria).
+# Dual histogram of the FICO score of the borrowers,depending on the credit policy (i.e. if a borrower met the underlying criteria).
 
 ![image](https://user-images.githubusercontent.com/35156789/41815671-0c62511c-7740-11e8-9ed0-76fa377840ae.png)
 
@@ -49,7 +49,7 @@ Dual histogram of the FICO score of the borrowers,depending on the credit policy
 
 ![image](https://user-images.githubusercontent.com/35156789/41815693-94d71776-7740-11e8-8cc6-bc1729bb68a8.png)
 
-Trend between FICO score and interest rate.
+# Trend between FICO score and interest rate.
 ![image](https://user-images.githubusercontent.com/35156789/41815703-c229c73c-7740-11e8-8202-46175cb591f6.png)
 
 # Model Building
