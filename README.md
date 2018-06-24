@@ -9,12 +9,9 @@ The dataset contains lending data from 2007-2010.Our objective is to classify an
 
 The data set contains the following features:
 
-credit.policy: 1 if customer meets the credit underwriting criteria of LendingClub.com, and 0 otherwise.
-
-purpose: Purpose of the loan (takes values "credit_card", "debt_consolidation", "educational", "major_purchase", "small_business", and "all_other").
-
-int.rate: Interest rate of the loan,(a rate of 11% is stored as 0.11). Borrowers judged by LendingClub.com to be more risky are assigned higher interest rates.
-
+credit.policy: 1 if customer meets the credit underwriting criteria of LendingClub.com, and 0 otherwise.                       
+purpose: Purpose of the loan (takes values "credit_card", "debt_consolidation", "educational", "major_purchase", "small_business", and "all_other").                       
+int.rate: Interest rate of the loan,(a rate of 11% is stored as 0.11). Borrowers judged by LendingClub.com to be more risky are assigned higher interest rates.                 
 installment: Monthly installments owed by the borrower if the loan is funded.
 
 log.annual.inc: The natural log of the self-reported annual income of the borrower.
