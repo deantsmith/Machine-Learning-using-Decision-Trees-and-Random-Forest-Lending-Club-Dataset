@@ -12,25 +12,16 @@ The data set contains the following features:
 credit.policy: 1 if customer meets the credit underwriting criteria of LendingClub.com, and 0 otherwise.                       
 purpose: Purpose of the loan (takes values "credit_card", "debt_consolidation", "educational", "major_purchase", "small_business", and "all_other").                       
 int.rate: Interest rate of the loan,(a rate of 11% is stored as 0.11). Borrowers judged by LendingClub.com to be more risky are assigned higher interest rates.                 
-installment: Monthly installments owed by the borrower if the loan is funded.
-
-log.annual.inc: The natural log of the self-reported annual income of the borrower.
-
-dti: Debt-to-income ratio of the borrower (amount of debt divided by annual income).
-
+installment: Monthly installments owed by the borrower if the loan is funded.               
+log.annual.inc: The natural log of the self-reported annual income of the borrower.              
+dti: Debt-to-income ratio of the borrower (amount of debt divided by annual income).                      
 fico: FICO credit score of the borrower.
-
-days.with.cr.line: Number of days borrower has had a credit line.
-
-revol.bal: Borrower's revolving balance (amount unpaid at the end of the credit card billing cycle).
-
-revol.util: Borrower's revolving line utilization rate (the amount of the credit line used relative to total credit available).
-
-inq.last.6mths: Borrower's number of inquiries by creditors in the last 6 months.
-
-delinq.2yrs: Number of times borrower had been 30+ days past due on a payment in the past 2 years.
-
-pub.rec: Borrower's number of derogatory public records (bankruptcy filings, tax liens, or judgments).
+days.with.cr.line: Number of days borrower has had a credit line.                       
+revol.bal: Borrower's revolving balance (amount unpaid at the end of the credit card billing cycle                     
+revol.util: Borrower's revolving line utilization rate (the amount of the credit line used relative to total credit available).       
+inq.last.6mths: Borrower's number of inquiries by creditors in the last 6 months.              
+delinq.2yrs: Number of times borrower had been 30+ days past due on a payment in the past 2 years.            
+pub.rec: Borrower's number of derogatory public records (bankruptcy filings, tax liens, or judgments).           
 
 
 ![image](https://user-images.githubusercontent.com/35156789/41815609-75553894-773e-11e8-914b-f0b55fa16757.png)
