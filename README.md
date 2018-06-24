@@ -54,42 +54,42 @@ Dual histogram of the FICO score of the borrowers,depending on the credit policy
 
 ![image](https://user-images.githubusercontent.com/35156789/41815674-1efb4338-7740-11e8-829c-c937480ffa7f.png)
 
-#Dual Histogram of the FICO score of the borrowers based on the 'not.fully.paid' column.
+# Dual Histogram of the FICO score of the borrowers based on the 'not.fully.paid' column.
 ![image](https://user-images.githubusercontent.com/35156789/41815678-35b69e06-7740-11e8-8735-24fb3ba2f52f.png)
 
-#Visualization representing if a borrower fully paid the loan back
+# Visualization representing if a borrower fully paid the loan back
 
 ![image](https://user-images.githubusercontent.com/35156789/41815693-94d71776-7740-11e8-8cc6-bc1729bb68a8.png)
 
 Trend between FICO score and interest rate.
 ![image](https://user-images.githubusercontent.com/35156789/41815703-c229c73c-7740-11e8-8202-46175cb591f6.png)
 
-#Model Building
+# Model Building
 The purpose column is categorical.We transform  using dummy variables so sklearn will be able to understand them.
 
 ![image](https://user-images.githubusercontent.com/35156789/41815907-d9aecf60-7745-11e8-928e-4a2c0e89d7c4.png)
 
-#Train Test Split
+# Train Test Split
 
 ![image](https://user-images.githubusercontent.com/35156789/41815914-09734a14-7746-11e8-9681-3eaab4838916.png)
 
-#Training a Decision Tree Model
+# Training a Decision Tree Model
 
 ![image](https://user-images.githubusercontent.com/35156789/41815924-2e5fdcde-7746-11e8-96c9-64acf06f39c6.png)
 
-#Predictions and Evaluation of Decision Tree
+# Predictions and Evaluation of Decision Tree
 
 ![image](https://user-images.githubusercontent.com/35156789/41815984-92c6423e-7747-11e8-9f61-661406278be5.png)
 
 ![image](https://user-images.githubusercontent.com/35156789/41816015-4ae4c07a-7748-11e8-909a-61858ba88a21.png)
 
-#Training the Random Forest model
+# Training the Random Forest model
 
 ![image](https://user-images.githubusercontent.com/35156789/41816107-1e44f448-774a-11e8-93ef-683345cdf322.png)
 
 ![image](https://user-images.githubusercontent.com/35156789/41816018-672a185c-7748-11e8-95ba-6ceeebad1a8b.png)
 
-#Predictions and Evaluation of Random Forest
+# Predictions and Evaluation of Random Forest
 
 ![image](https://user-images.githubusercontent.com/35156789/41816022-86a93d02-7748-11e8-8530-3f4d06ae0319.png)
 
