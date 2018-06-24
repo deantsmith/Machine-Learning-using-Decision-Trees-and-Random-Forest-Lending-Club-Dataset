@@ -4,7 +4,7 @@ This project explores the dataset from LendingClub.com. Lending Club is a servic
 (investors).We will try to create a model that will help predict if a person has a high probability of paying the loan back.
 
 
-Data
+#Data
 The dataset contains lending data from 2007-2010.Our objective is to classify and predict if the borrower paid back their loan.
 
 The data set contains the following features:
@@ -65,9 +65,20 @@ The purpose column is categorical.We transform  using dummy variables so sklearn
 
 ![image](https://user-images.githubusercontent.com/35156789/41815924-2e5fdcde-7746-11e8-96c9-64acf06f39c6.png)
 
+#Predictions and Evaluation of Decision Tree
 
+![image](https://user-images.githubusercontent.com/35156789/41815984-92c6423e-7747-11e8-9f61-661406278be5.png)
 
+![image](https://user-images.githubusercontent.com/35156789/41816015-4ae4c07a-7748-11e8-909a-61858ba88a21.png)
 
+#Training the Random Forest model
 
+![image](https://user-images.githubusercontent.com/35156789/41816107-1e44f448-774a-11e8-93ef-683345cdf322.png)
+
+![image](https://user-images.githubusercontent.com/35156789/41816018-672a185c-7748-11e8-95ba-6ceeebad1a8b.png)
+
+#Predictions and Evaluation of Random Forest
+
+![image](https://user-images.githubusercontent.com/35156789/41816022-86a93d02-7748-11e8-8530-3f4d06ae0319.png)
 
 
